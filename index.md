@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<meta http-equiv="Refresh" content="0; url='https://ungtb10d.github.io/010/'" />
 <head>
 <title>kaos 010</title>
 </head>
